@@ -1,7 +1,7 @@
 <h1>Hi, I'm Phil! <br/><a href="https://github.com/lionmetals">Data Analyst</a>
   
 <h2>💻 Skills:</h2>
-
+- <b>SQL</b>
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
