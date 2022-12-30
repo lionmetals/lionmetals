@@ -1,4 +1,6 @@
 <h1>Hi, I'm Phil! <br/><a href="https://github.com/lionmetals">Data Analyst</a>
+  
+<h2>💻 Skills:</h2>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
@@ -39,7 +41,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lionmetals/lionmetals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
