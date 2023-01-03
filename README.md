@@ -11,16 +11,12 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> [Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>
+- <b>[Tableau Covid Vaccine Tracker](https://github.com/lionmetals/tableau_covid_vaccine_tracker.git)</b>
 - <b>[Zenger Farms CSA Crop Shares Analysis](https://github.com/lionmetals/zenger_CSA_analysis)</b>
 - <b>[Zenger Farms Summer Camp Analysis](https://github.com/lionmetals/zenger_summercamp_analysis)</b>
-
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Google Data Analytics 
 
 <h2> 🤳 Connect with me:</h2>
 
