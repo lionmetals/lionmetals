@@ -12,8 +12,8 @@
 
 - <b> [Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>
 - <b>[Tableau Covid Vaccine Tracker](https://github.com/lionmetals/tableau_covid_vaccine_tracker.git)</b>
-- <b>[Zenger Farms CSA Crop Shares Analysis](https://github.com/lionmetals/zenger_CSA_analysis)</b>
-- <b>[Zenger Farms Summer Camp Analysis](https://github.com/lionmetals/zenger_summercamp_analysis)</b>
+- <b>[Portland Farms CSA Crop Shares Analysis](https://github.com/lionmetals/portland_farms_CSA_analysis)</b>
+- <b>[Portland Farms Summer Camp Analysis](https://github.com/lionmetals/portland_farms_summercamp_analysis)</b>
 
 <h2>📺 Certifications</h2>
 
