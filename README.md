@@ -1,12 +1,12 @@
 <h1>Hi, I'm Phil! <br/><a href="https://github.com/lionmetals">Data Analyst</a>
   
 <h2>💻 Skills:</h2>
-| SQL
-| R 
-| Tableau
-| HTML
-| Microsoft Suite
-| Google Workspace
+| &nbsp SQL &nbsp
+| &nbsp R &nbsp 
+| &nbsp Tableau &nbsp
+| &nbsp HTML &nbsp
+| &nbsp Microsoft Suite &nbsp
+| &nbsp Google Workspace &nbsp
   
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
