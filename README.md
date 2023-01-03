@@ -7,7 +7,7 @@
 | &nbsp HTML &nbsp
 | &nbsp Microsoft Suite &nbsp
 | &nbsp Google Workspace &nbsp
-  
+|
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> [Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>
