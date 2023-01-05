@@ -10,7 +10,8 @@
 |
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b> [Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>
+- <b>[Denver Airbnb Cleaning Service Analysis](https://github.com/lionmetals/airbnb_denver.git)</b>
+- <b>[Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>
 - <b>[Tableau Covid Vaccine Tracker](https://github.com/lionmetals/tableau_covid_vaccine_tracker.git)</b>
 - <b>[Portland Farms CSA Crop Shares Analysis](https://github.com/lionmetals/portland_farms_CSA_analysis)</b>
 - <b>[Portland Farms Summer Camp Analysis](https://github.com/lionmetals/portland_farms_summercamp_analysis)</b>
