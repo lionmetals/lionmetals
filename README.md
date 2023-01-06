@@ -23,7 +23,9 @@
 
 <h2>📺 Certifications</h2>
 
-- <b>[Google Data Analytics](https://www.linkedin.com/in/phil-lee-72023523b/details/certifications/)</b>
+- <b>[Google Data Analytics](https://www.linkedin.com/in/phil-lee-72023523b/details/certifications/)</b>: Comprehensive Data Analytics course where I learned how to
+  - Clean, review, and analyze data using tools such as spreadsheets, SQL, R programming, and Tableau
+  - Visualize and present data findings in dashboards, presentations, and other commonly used visualization platforms
 
 <h2> 🤳 Connect with me:</h2>
 
