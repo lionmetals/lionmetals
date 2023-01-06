@@ -10,15 +10,20 @@
 |
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>[Denver Airbnb Cleaning Service Analysis](https://github.com/lionmetals/airbnb_denver.git)</b>
-- <b>[Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>
-- <b>[Tableau Covid Vaccine Tracker](https://github.com/lionmetals/tableau_covid_vaccine_tracker.git)</b>
-- <b>[Portland Farms CSA Crop Shares Analysis](https://github.com/lionmetals/portland_farms_CSA_analysis)</b>
-- <b>[Portland Farms Summer Camp Analysis](https://github.com/lionmetals/portland_farms_summercamp_analysis)</b>
+- <b>[Denver Airbnb Cleaning Service Analysis](https://github.com/lionmetals/airbnb_denver.git)</b>:
+  - Using SQL to analyze which Airbnb hosts in Denver, Co, would most likely need a cleaning service.
+- <b>[Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>:
+  - Using SQL and R to increase membership rates for customers who use the Cyclistic bike app.
+- <b>[Tableau Covid Vaccine Tracker](https://github.com/lionmetals/tableau_covid_vaccine_tracker.git)</b>:
+  - Using Tableau to create an interactive Covid-19 vaccine tracker.
+- <b>[Portland Farms CSA Crop Shares Analysis](https://github.com/lionmetals/portland_farms_CSA_analysis)</b>:
+  - Using Google Workspace to determine which crops to grow at Portland Farms in 2023.
+- <b>[Portland Farms Summer Camp Analysis](https://github.com/lionmetals/portland_farms_summercamp_analysis)</b>: 
+  - Using Google Workspace to determine if Portland Farms was catering to their target demographic as well as to determine if they can adopt a more competitive pricing model.
 
 <h2>📺 Certifications</h2>
 
-- Google Data Analytics 
+- <b>[Google Data Analytics](https://www.linkedin.com/in/phil-lee-72023523b/details/certifications/)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
