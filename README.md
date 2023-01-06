@@ -1,6 +1,7 @@
 <h1>Hi, I'm Phil! <br/><a href="https://github.com/lionmetals">Data Analyst</a>
   
 <h2>💻 Skills:</h2>
+<b>
 | &nbsp SQL &nbsp
 | &nbsp R &nbsp 
 | &nbsp Tableau &nbsp
@@ -8,6 +9,7 @@
 | &nbsp Microsoft Suite &nbsp
 | &nbsp Google Workspace &nbsp
 |
+  </b>
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>[Denver Airbnb Cleaning Service Analysis](https://github.com/lionmetals/airbnb_denver.git)</b>:
