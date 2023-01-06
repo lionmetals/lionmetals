@@ -14,7 +14,7 @@
 
 - <b>[Denver Airbnb Cleaning Service Analysis](https://github.com/lionmetals/airbnb_denver.git)</b>:
   - Used SQL to analyze which Airbnb hosts in Denver, Co, would most likely need a cleaning service.
-- <b>[Cyclistic Bike-Share Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>:
+- <b>[Cyclistic Bike-Share Case Study](https://github.com/lionmetals/cyclistic_bikeshare_study)</b>:
   - Used SQL and R to increase membership rates for customers who use the Cyclistic bike app.
 - <b>[Tableau Covid Vaccine Tracker](https://github.com/lionmetals/tableau_covid_vaccine_tracker.git)</b>:
   - Used Tableau to create an interactive Covid-19 vaccine tracker.
